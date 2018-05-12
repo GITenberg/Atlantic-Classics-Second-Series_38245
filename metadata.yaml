@@ -1,0 +1,129 @@
+_repo: Atlantic-Classics-Second-Series_38245
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Portor, Laura Spencer
+    gutenberg_agent_id: '39344'
+    url: http://www.gutenberg.org/2009/agents/39344
+  - agent_name: Allinson, Anne C. E. (Anne Crosby Emery)
+    birthdate: &id001 1871
+    deathdate: &id004 1932
+    gutenberg_agent_id: '7808'
+    url: http://www.gutenberg.org/2009/agents/7808
+    wikipedia: http://www.brown.edu/Administration/News_Bureau/Databases/Encyclopedia/search.php?serial=A0150
+  - agent_name: Crothers, Samuel McChord
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '6347'
+    url: http://www.gutenberg.org/2009/agents/6347
+  - agent_name: Baldwin, Lida F.
+    gutenberg_agent_id: '39339'
+    url: http://www.gutenberg.org/2009/agents/39339
+  - agent_name: Donnelly, Lucy Martin
+    gutenberg_agent_id: '39341'
+    url: http://www.gutenberg.org/2009/agents/39341
+  - agent_name: Goodspeed, Edgar J. (Edgar Johnson)
+    alias: Goodspeed, Edgar Johnson
+    birthdate: *id001
+    deathdate: &id002 1962
+    gutenberg_agent_id: '39337'
+    url: http://www.gutenberg.org/2009/agents/39337
+  - agent_name: Gay, Robert M. (Robert Malcolm)
+    alias: Gay, Robert Malcolm
+    birthdate: &id003 1879
+    deathdate: 1961
+    gutenberg_agent_id: '39335'
+    url: http://www.gutenberg.org/2009/agents/39335
+  - agent_name: Davis, Fannie Stearns
+    alias: Gifford, Fannie Stearns
+    birthdate: 1884
+    gutenberg_agent_id: '39340'
+    url: http://www.gutenberg.org/2009/agents/39340
+  - agent_name: Beebe, William
+    aliases:
+    - Beebe, C. William (Charles William)
+    - Beebe, Charles William
+    birthdate: 1877
+    deathdate: *id002
+    gutenberg_agent_id: '31644'
+    url: http://www.gutenberg.org/2009/agents/31644
+    wikipedia: http://en.wikipedia.org/wiki/William_Beebe
+  - agent_name: Foster, William Trufant
+    alias: Foster, William T.
+    birthdate: *id003
+    deathdate: 1950
+    gutenberg_agent_id: '6344'
+    url: http://www.gutenberg.org/2009/agents/6344
+    wikipedia: https://en.wikipedia.org/wiki/William_Trufant_Foster
+  - agent_name: Merwin, Henry Childs
+    alias: Merwin, H. C. (Henry Childs)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '36161'
+    url: http://www.gutenberg.org/2009/agents/36161
+  - agent_name: Kimball, Richard Bowland
+    gutenberg_agent_id: '39343'
+    url: http://www.gutenberg.org/2009/agents/39343
+  - agent_name: Hall, Sharlot Mabridth
+    alias: Hall, Sharlot M.
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '39342'
+    url: http://www.gutenberg.org/2009/agents/39342
+  - agent_name: Addams, Jane
+    alias: Addams, Laura Jane
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '602'
+    url: http://www.gutenberg.org/2009/agents/602
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Addams
+  - agent_name: Taylor, Elizabeth
+    birthdate: 1856
+    deathdate: *id004
+    gutenberg_agent_id: '39345'
+    url: http://www.gutenberg.org/2009/agents/39345
+  - agent_name: Chapman, John Jay
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '4825'
+    url: http://www.gutenberg.org/2009/agents/4825
+  - agent_name: Mackenzie, Jean Kenyon
+    alias: Mackenzie, J. K. (Jean Kenyon)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '39336'
+    url: http://www.gutenberg.org/2009/agents/39336
+covers:
+- cover_type: archival
+  image_path: 38245-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Sedgwick, Ellery
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '31539'
+    url: http://www.gutenberg.org/2009/agents/31539
+description: ''
+gutenberg_issued: '2011-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays'
+tableOfContents: Dogs and men, by H.C. Merwin -- Jungle night, by W. Beebe -- The
+  devil baby at Hull-House, by Jane Addams -- Every man's natural desire to be somebody
+  else, by S.M. Crothers -- The temple's difficult door, by R.M. Gay -- Exile and
+  postman, by Jean K. Mackenzie -- The life of adventure, by E.J. Goodspeed -- An
+  indictment of intercollegiate athletics, by W.T. Foster -- Car-window botany, by
+  Lida F. Baldwin -- Studies in solitude, by Fannie S. Gifford -- The Greek genius,
+  by J.J. Chapman -- In praise of old ladies, by Lucy M. Donnelly -- A memory of old
+  gentlemen, by Sharlot M. Hall -- Viola's lovers, by R.B. Kimball -- Haunted lives,
+  by Laura S. Porter -- The Acropolis and Golgotha, by Anne C.E. Allinson -- The baptizing
+  of the baby, by Elizabeth Taylor -- Biographical notes.
+title: Atlantic Classics, Second Series
+url: http://www.gutenberg.org/ebooks/38245
