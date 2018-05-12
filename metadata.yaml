@@ -6,8 +6,8 @@ contributor:
     gutenberg_agent_id: '39344'
     url: http://www.gutenberg.org/2009/agents/39344
   - agent_name: Allinson, Anne C. E. (Anne Crosby Emery)
-    birthdate: &id001 1871
-    deathdate: &id004 1932
+    birthdate: 1871
+    deathdate: 1932
     gutenberg_agent_id: '7808'
     url: http://www.gutenberg.org/2009/agents/7808
     wikipedia: http://www.brown.edu/Administration/News_Bureau/Databases/Encyclopedia/search.php?serial=A0150
@@ -24,13 +24,13 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39341
   - agent_name: Goodspeed, Edgar J. (Edgar Johnson)
     alias: Goodspeed, Edgar Johnson
-    birthdate: *id001
-    deathdate: &id002 1962
+    birthdate: 1871
+    deathdate: 1962
     gutenberg_agent_id: '39337'
     url: http://www.gutenberg.org/2009/agents/39337
   - agent_name: Gay, Robert M. (Robert Malcolm)
     alias: Gay, Robert Malcolm
-    birthdate: &id003 1879
+    birthdate: 1879
     deathdate: 1961
     gutenberg_agent_id: '39335'
     url: http://www.gutenberg.org/2009/agents/39335
@@ -44,13 +44,13 @@ contributor:
     - Beebe, C. William (Charles William)
     - Beebe, Charles William
     birthdate: 1877
-    deathdate: *id002
+    deathdate: 1962
     gutenberg_agent_id: '31644'
     url: http://www.gutenberg.org/2009/agents/31644
     wikipedia: http://en.wikipedia.org/wiki/William_Beebe
   - agent_name: Foster, William Trufant
     alias: Foster, William T.
-    birthdate: *id003
+    birthdate: 1879
     deathdate: 1950
     gutenberg_agent_id: '6344'
     url: http://www.gutenberg.org/2009/agents/6344
@@ -79,7 +79,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Jane_Addams
   - agent_name: Taylor, Elizabeth
     birthdate: 1856
-    deathdate: *id004
+    deathdate: 1932
     gutenberg_agent_id: '39345'
     url: http://www.gutenberg.org/2009/agents/39345
   - agent_name: Chapman, John Jay
@@ -104,6 +104,8 @@ creator:
     gutenberg_agent_id: '31539'
     url: http://www.gutenberg.org/2009/agents/31539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38245#Atlantic-Classics-Second-Series
 gutenberg_issued: '2011-12-07'
 gutenberg_type: Text
 identifiers:
